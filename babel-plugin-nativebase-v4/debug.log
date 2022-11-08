@@ -1,0 +1,26 @@
+[33mCompiled with warnings.[39m
+[33m[39m
+[eslint] 
+src/App.js
+  [1mLine 1:8:[22m  'logo' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[1m[33mWARNING[39m[22m in [eslint] 
+src/App.js
+  [1mLine 1:8:[22m  'logo' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+webpack compiled with [1m[33m1 warning[39m[22m
+Compiling...
+[32mCompiled successfully![39m
+undefined
+You can now view [1mnativebase-v4[22m in the browser.
+undefined
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.17:[1m3000[22m
+undefined
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+undefined
+webpack compiled [1m[32msuccessfully[39m[22m
